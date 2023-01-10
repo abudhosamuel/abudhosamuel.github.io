@@ -287,6 +287,9 @@ h6 {
   background: url("../img/sammyj.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (min-width: 992px) {
